@@ -1,0 +1,5 @@
+collections:
+  third-nav:
+    output: true
+    order:
+      - Nested Cards.md
